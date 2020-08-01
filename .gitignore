@@ -1,0 +1,12 @@
+./ipynb_checkpoints/
+*.swp
+*.zip
+*.txt
+*.tar
+*.csv
+*.xlsx
+*.pyc
+*. __pycache__
+*.__pycache__
+*.gz
+
